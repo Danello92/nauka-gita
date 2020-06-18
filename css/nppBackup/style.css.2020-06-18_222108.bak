@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background-color: edfa8e;
+	text-align: center;
+}
+.container{
+	
+}

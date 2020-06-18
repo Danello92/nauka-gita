@@ -5,14 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/style.css">
 	<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@1&family=Roboto:wght@500&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Slabo+27px&display=swap" rel="stylesheet">
-    <title>Peom</title>
+    <title>Document</title>
 </head>
 <body>
 	<section>
 		<div class="container">
 			<h1>Przesłanie Pana Cogito</h1>
-			<h5>autorstwa Zbigniew Herberta</h5>
 				<div class="container-inner">
 					<p>
 					Idź dokąd poszli tamci do ciemnego kresu</br>

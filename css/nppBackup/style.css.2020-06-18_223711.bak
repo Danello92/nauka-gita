@@ -1,0 +1,23 @@
+/*font-family: 'Libre Baskerville', serif;*/
+/*font-family: 'Roboto', sans-serif; */
+* {
+	box-sizing: border-box;
+	padding:0;
+	margin:0;
+}
+body {
+	background-color:#fffdd0;
+	text-align: justify;
+}
+
+.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin: 0 96px 0 96px;
+}
+.container-inner {
+	font-size:16px;
+	font-family: 'Roboto', sans-serif;
+}

@@ -1,0 +1,10 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	background: ffffc3;
+	text-align: center;
+}
+.container{
+	
+}

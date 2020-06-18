@@ -1,21 +1,19 @@
 /*font-family: 'Libre Baskerville', serif;*/
-/*font-family: 'Slabo 27px', serif;*/
+/*font-family: 'Roboto', sans-serif; */
 * {
 	box-sizing: border-box;
 
 }
 body {
 	background-color:#fffdd0;
+
 }
-.container {
-	text-align: justify;
+
+.container{
+	text-align: center;
 	margin: 0 35vw 0 35vw;
 }
 .container-inner {
 	font-size:16px;
-	ont-family: 'Slabo 27px', serif;
-	word-spacing: 5px; 
-}
-h5 {
-	font-family: 'Libre Baskerville', serif;
+	font-family: 'Roboto', sans-serif;
 }
