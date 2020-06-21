@@ -8,6 +8,7 @@ body {
 	background-color:#fffdd0;
 }
 .container {
+	display: -ms-flexbox;
 	display: flex;
 	text-align: justify;
 	margin: 0 35vw 0 35vw;
